@@ -1,0 +1,22 @@
+.background-works{
+    background-color: white;
+    margin-top: 5%;
+}
+.title-works{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-size: 2.25vw;
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+img{
+    max-width: 100%;
+    padding: 1.5vw;
+}
+.gal2{
+    margin-left:5%;
+}
+.gal5{
+    margin-top:-7%;
+}

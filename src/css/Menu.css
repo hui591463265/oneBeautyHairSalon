@@ -1,0 +1,26 @@
+.big-menu{
+    background-color: gray;
+}
+.line {
+    height:0.5vw;
+    background-color: white;
+    width:100%;
+    color:transparent;
+    transform: skewY(-2deg);
+  }
+.after-line{
+    background: linear-gradient(to bottom, gray, white);
+    height:2vw;
+    transform: skewY(-2deg);
+}
+.logo1-menu{
+    max-width: 100%;
+    text-align: left;
+}
+.menu-options{
+    color:white;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    font-size: 1.2vw;
+    font-family: cursive;
+}

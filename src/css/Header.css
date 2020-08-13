@@ -1,0 +1,52 @@
+.big-container{
+    background-image: url('../img/salon-02.jpg');
+    background-position: center top;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    height: 55vw;
+    width: 100%; 
+}
+.big-row{
+    height: 100%;
+}
+.right-col{
+    font-size: 1.5vw;
+    margin-top: 15vw;
+    margin-right:10%;
+    margin-bottom: auto;
+    color: white;
+    float:right;
+    text-align: right;
+    
+}
+
+.logo1{
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.logo2{
+    max-width:12%;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+.header-p{
+    margin-top: 5%;
+    height:3vw;
+    margin-left: auto;
+    margin-right: auto;
+    color:white;
+    font-size: 1.5vw;
+    margin-bottom: auto;
+}
+.light-p{
+    font-weight: 100;
+    font-style: oblique;
+    font-family: cursive;
+}

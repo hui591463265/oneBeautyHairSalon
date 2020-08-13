@@ -20,3 +20,6 @@ img{
 .gal5{
     margin-top:-7%;
 }
+.gal3, .gal1{
+    max-height: 100%;
+}

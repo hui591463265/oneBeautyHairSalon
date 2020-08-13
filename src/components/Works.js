@@ -19,11 +19,11 @@ class Works extends Component {
         return (
             <div className="background-works">
                 <Container fluid id="works-anchor">
-                    <Row fluid >
+                    <Row >
                         <Col xs={1}></Col>
                         <Col xs={9}>
                             <Row noGutters>
-                                <Col xs={5} fluid>
+                                <Col xs={5}>
                                     <Row noGutters>
                                         <img className='gal3' src={gal3}/>  
                                     </Row>

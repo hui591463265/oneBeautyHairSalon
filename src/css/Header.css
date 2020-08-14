@@ -5,12 +5,10 @@
     background-repeat: no-repeat;
     height: auto;
     width: 100%; 
-    border : 1px solid black;
     position: relative;
 }
 .big-row{
     height: 100%;
-    border : 1px solid black;
 }
 .right-col{
     font-size: 1.5vw;
@@ -32,7 +30,6 @@
     margin-bottom: auto;
     max-height: 12%;
     max-width: 100%;
-    border : 1px solid black;
     object-fit: contain;
     z-index: 100;
 }
@@ -47,7 +44,6 @@
     height:100%;
     width:100%;
     object-fit: contain;
-    border : 1px solid black;
 }
 .header-p{
     height:3vw;
@@ -58,7 +54,6 @@
     color:white;
     font-size: 1.5vw;
     margin-bottom: auto;
-    border : 1px solid black;
     z-index:100;
     object-fit: contain;
 }

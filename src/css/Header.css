@@ -11,7 +11,7 @@
 }
 .big-row{
     height: 100%;
-    border : 1px solid white;
+    border : 1px solid black;
 }
 .right-col{
     font-size: 1.5vw;
@@ -21,6 +21,7 @@
     color: white;
     float:right;
     text-align: right;
+    z-index:100;
 }
 
 .logo1{
@@ -33,6 +34,7 @@
     max-width: 100%;
     border : 1px solid black;
     object-fit: contain;
+    z-index: 100;
 }
 
 .logo2{
@@ -53,7 +55,10 @@
     margin-right: auto;
     color:white;
     font-size: 1.5vw;
-    margin-bottom: auto;    
+    margin-bottom: auto;
+    border : 1px solid black;
+    z-index:100;
+    object-fit: contain;
 }
 .light-p{
     font-weight: 100;

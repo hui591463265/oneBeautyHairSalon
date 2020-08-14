@@ -26,21 +26,22 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
+    margin-bottom: auto;
     object-fit: contain;
     max-height: auto;
     max-width: 100%;
     border : 1px solid black;
-    
 }
 
 .logo2{
-    max-width:12%;
-    height:auto;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
+    margin-bottom: auto;
+    max-width:12%;
+    max-height: 12%;
+    height:auto;
     object-fit: contain;
-    max-height: auto;
     border : 1px solid black;
 }
 .header-p{

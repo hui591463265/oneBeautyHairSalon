@@ -25,29 +25,29 @@ class Works extends Component {
                             <Row noGutters>
                                 <Col xs={5}>
                                     <Row noGutters>
-                                        <img className='gal3' src={gal3}/>  
+                                        <img className='gal3' alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" src={gal3}/>  
                                     </Row>
                                 </Col>
                                 <Col xs={5}>
                                     <Row noGutters>
-                                        <img className='gal1' src={gal1}/>
+                                        <img className='gal1' alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" src={gal1}/>
                                     </Row>
                                     <Row noGutters>
                                         <Col>
-                                            <img className='gal4' src={gal4}/>
+                                            <img className='gal4' alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" src={gal4}/>
                                         </Col>
                                         <Col>
-                                            <img className='gal2' src={gal2}/>
+                                            <img className='gal2' alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" src={gal2}/>
                                         </Col>
                                     </Row>
                                 </Col>
                             </Row>
                             <Row noGutters>
                                         <Col xs={4}>
-                                            <img className='gal5' src={gal5}/>
+                                            <img className='gal5' alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" src={gal5}/>
                                         </Col>
                                         <Col xs={4}>
-                                            <img className='gal6' src={gal6}/>
+                                            <img className='gal6' alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" src={gal6}/>
                                         </Col>
                                     </Row>
                         </Col>

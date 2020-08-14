@@ -28,7 +28,7 @@ class Services extends Component {
                         <Col>
                             <Row fluid>
                                 <Col className="logo" xs={2}>
-                                    <Image src = {logo1} fluid/>
+                                    <Image src = {logo1} alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" fluid/>
                                 </Col>
                                 <Col>
                                     <Row id="services-anchor" className="sub-title">
@@ -48,7 +48,7 @@ class Services extends Component {
                             <br></br>
                             <Row fluid>
                                 <Col className="logo" xs={2}>
-                                    <Image src = {logo2} fluid/>
+                                    <Image src = {logo2} alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" fluid/>
                                 </Col>
                                 <Col>
                                     <Row className="sub-title">
@@ -71,7 +71,7 @@ class Services extends Component {
                             <br></br>
                             <Row fluid>
                                 <Col className="logo" xs={2}>
-                                    <Image src = {logo3} fluid/>
+                                    <Image src = {logo3} alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" fluid/>
                                 </Col>
                                 <Col>
                                     <Row className="sub-title">
@@ -83,13 +83,15 @@ class Services extends Component {
                                     <Row>
                                         <Col className="title-p">KERATIN TREATMENT<br></br>巴西护理</Col>
                                         <Col className="title-p">JAPANESE WATER SPA DEEP CONDITIONING TREATMENT<br></br>日式水疗深度护理</Col>
+                                        <Col></Col>
+                                        <Col></Col>
                                     </Row>
                                 </Col>
                             </Row>
                             <br></br>
                             <Row fluid>
                                 <Col className="logo" xs={2}>
-                                    <Image src = {logo4} fluid/>
+                                    <Image src = {logo4} alt="Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" fluid/>
                                 </Col>
                                 <Col>
                                     <Row className="sub-title">

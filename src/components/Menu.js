@@ -17,7 +17,7 @@ class Menu extends Component {
                     <Container fluid>
                         <Row>
                             <Col sm={5} xs={4}>
-                                <Image src = {logo1} className = "logo1-menu"/>
+                                <Image src = {logo1} alt="One Hair Beauty Salon, One Hair Salon, Hair, Salon, haircut, hairstyle, hair treatment, hair coloring 染发, 理发, 剪发, 美发, 直发, 烫发, 卷发, 护理" className = "logo1-menu"/>
                             </Col>
                             <Col className="menu-options">
                                 <Row >SERVICES</Row>
@@ -43,6 +43,7 @@ class Menu extends Component {
                                     <a href="https://www.yelp.com/biz/one-beauty-hair-salon-flushing-3" target="_blank">预约服务</a>
                                 </Row>
                             </Col>
+                            <Col></Col>
                         </Row>
                     </Container>
                     <br></br>

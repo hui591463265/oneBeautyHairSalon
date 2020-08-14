@@ -9,7 +9,7 @@
     margin-left: auto;
     margin-right: auto;
     font-size:2.25vw;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poiret One', cursive;
     font-weight: bold;
 }
 .linebreak{
@@ -46,6 +46,7 @@
     text-align: left;
     font-size: 1.20vw;
     color:white;
+    font-family: 'Poiret One', cursive;
 }
 .qrcode{
     margin-top: -5%;
@@ -57,6 +58,8 @@
     height:auto;
     max-height:auto;
     object-fit: contain;
+    height:100%;
+    width:100%;
 }
 .contact-fix{
     margin-top:-2%;

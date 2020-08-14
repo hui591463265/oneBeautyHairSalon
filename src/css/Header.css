@@ -6,6 +6,8 @@
     height: 55vw;
     width: 100%; 
     border : 1px solid black;
+    overflow: hidden;
+    position: relative;
 }
 .big-row{
     height: 100%;
@@ -27,10 +29,10 @@
     margin-right: auto;
     margin-top: 5%;
     margin-bottom: auto;
-    object-fit: contain;
     max-height: auto;
     max-width: 100%;
     border : 1px solid black;
+    object-fit: contain;
 }
 
 .logo2{

@@ -31,6 +31,8 @@ class Header extends Component {
                             <Row>
                                 <div className="header-p">专业的技术，热情的服务是我们的宗旨。您的改变，创新与魅力从这里开始</div>
                             </Row>
+                            <br></br>
+                            <br></br>
                         </Col>
                         <Col>
                             <div className="right-col">

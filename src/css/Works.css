@@ -1,6 +1,7 @@
 .background-works{
     background-color: white;
     margin-top: 5%;
+    position: relative;
 }
 .title-works{
     writing-mode: vertical-rl;

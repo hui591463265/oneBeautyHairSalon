@@ -3,7 +3,7 @@
     background-position: center top;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    height: 55vw;
+    height: auto;
     width: 100%; 
     border : 1px solid black;
     position: relative;
@@ -50,8 +50,9 @@
     border : 1px solid black;
 }
 .header-p{
-    margin-top: 5%;
     height:3vw;
+    margin-top: 5%;
+    margin-bottom: 5%;
     margin-left: auto;
     margin-right: auto;
     color:white;
